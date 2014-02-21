@@ -1,0 +1,16 @@
+TAGS
+xwax
+*.o
+*.d
+.config
+.version
+dist
+
+tests/cues
+tests/library
+tests/midi
+tests/scan-bpm
+tests/status
+tests/timecoder
+tests/track
+tests/ttf
